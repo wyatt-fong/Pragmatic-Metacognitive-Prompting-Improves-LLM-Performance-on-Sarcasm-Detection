@@ -1,4 +1,4 @@
-#Pragmatic Metacognitive Prompting for Sarcasm Detection in LLMs <br> <br>
+# Pragmatic Metacognitive Prompting for Sarcasm Detection in LLMs <br> <br>
 Overview<br>
 This repository explores the use of Pragmatic Metacognitive Prompting (PMP) to enhance the performance of Large Language Models (LLMs) in detecting sarcasm. Sarcasm detection is a challenging task in Natural Language Processing (NLP) due to its reliance on subtle cues that may not always be explicitly stated. By integrating pragmatic metacognitive strategies into the prompt engineering process, this approach aims to guide the model's reasoning and improve its ability to accurately identify sarcastic statements. <br> <br>
 
